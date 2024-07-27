@@ -1,10 +1,10 @@
 {
-  "name": "gifted-md@v5.0.0",
-  "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
-  "website": "https://web.giftedtechnexus.co.ke",
-  "repository": "https://github.com/mouricedevs/gifted-md",
-  "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
-  "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
+  "name": "Will Bot V-x",
+  "description": "I am Will Bot, Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+  "website": "https://web.willbot.com",
+  "repository": "https://github.com/WIllu/Will bot-md",
+  "logo": "https://img.freepik.com/premium-photo/dark-angel-holding-sword-sword_852340-4333.jpg",
+  "keywords": ["WIll bot", "will bot", "bot"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": { 
@@ -16,7 +16,7 @@
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": false,
-      "value": "GIFTED TECH"
+      "value": "Will"
     },
     "SESSION_ID": {
       "description": "Put Your SESSION_ID Here. It must startwithGifted~",
@@ -26,7 +26,7 @@
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Number",
       "required": false,
-      "value": "254110853827"
+      "value": "08084114655"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
